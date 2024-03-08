@@ -1,4 +1,4 @@
-<div class="tenor-gif-embed" data-postid="17898315" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/a-silent-voice-cry-anime-sad-tears-gif-17898315">A Silent Voice Cry GIF</a>from <a href="https://tenor.com/search/a+silent+voice-gifs">A Silent Voice GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/JECyRLDr6p0AAAAd/cry-anime.gif">
 
 
 
