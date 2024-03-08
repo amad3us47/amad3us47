@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" height="250" width="350" src="https://media1.tenor.com/m/JECyRLDr6p0AAAAd/cry-anime.gif">
+<img align="right" alt="Coding" height="250" width="450" src="https://media1.tenor.com/m/JECyRLDr6p0AAAAd/cry-anime.gif">
 
 
 
