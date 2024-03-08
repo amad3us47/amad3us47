@@ -2,8 +2,6 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=ambient_gradient&show_icons=true)
-
 
 
 - 👋 Hi, I’m @amad3us47 aka Aman 
@@ -15,7 +13,7 @@
 - Hack the planet !!!!
 
 
-![Amad3us's GitHub stats](https://github-readme-stats.vercel.app/api?username=amad3us47&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=ambient_gradient&show_icons=true)
 
 <!---
 amad3us47/amad3us47 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
