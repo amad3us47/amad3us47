@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
+![](https://komarev.com/ghpvc/?username=amad3us47&style=flat-square)
 
 - 👋 Hi, I’m @amad3us47 aka Aman 
 - 👀 I’m interested in building stuffs 
