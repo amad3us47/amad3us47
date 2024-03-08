@@ -13,6 +13,10 @@
 - 📫 How to reach me (don't)
 - Hope to master webapp pentesting within 1 year.
 - Hack the planet !!!!
+
+
+![Amad3us's GitHub stats](https://github-readme-stats.vercel.app/api?username=amad3us47&show_icons=true&theme=radical)
+
 <!---
 amad3us47/amad3us47 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
