@@ -2,7 +2,7 @@
 
 
 
-![](https://komarev.com/ghpvc/?username=amad3us47&style=flat-square)
+![](https://komarev.com/ghpvc/?username=amad3us47&style=ambient_gradient)
 
 
 
