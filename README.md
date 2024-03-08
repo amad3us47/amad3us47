@@ -13,7 +13,7 @@
 - Hack the planet !!!!
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=ambient_gradient&show_icons=true)
+![Amad3us47's GitHub stats](https://github-readme-stats.vercel.app/api?username=amad3us47&theme=ambient_gradient&show_icons=true)
 
 <!---
 amad3us47/amad3us47 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
