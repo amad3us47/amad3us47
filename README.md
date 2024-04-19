@@ -6,7 +6,7 @@
 
 - 👋 Hi, I’m @amad3us47 aka Aman 
 - 👀 I’m interested in building stuffs 
-- 🌱 I’m currently studying for jee(hope to get atleast an nit)
+- 🌱 I’m currently studying excel
 - 💞️ I’m looking to collaborate on fragments(to make good projects)
 - 📫 How to reach me (don't)
 - Hope to master webapp pentesting within 1 year.
