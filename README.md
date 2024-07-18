@@ -9,8 +9,6 @@
 - 🌱 I’m currently studying excel
 - 💞️ I’m looking to collaborate on fragments(to make good projects)
 - 📫 How to reach me (don't)
-- Hope to master webapp pentesting within 1 year.
-- Hack the planet !!!!
 
 
 
