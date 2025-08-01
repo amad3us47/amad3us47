@@ -5,7 +5,7 @@
 - 🌱 I’m currently studying excel
 - 💞️ I’m looking to collaborate on fragments(to make good projects)
 - 📫 How to reach me (don't)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amad3us47&langs_count=8)
+
 
 
 
