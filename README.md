@@ -1,7 +1,7 @@
 <img align="right" alt="Coding" height="200" width="350" src="https://media1.tenor.com/m/JECyRLDr6p0AAAAd/cry-anime.gif">
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amad3us47)](https://github.com/anuraghazra/github-readme-stats)
 
 
 - 👋 Hi, I’m @amad3us47 aka Aman 
