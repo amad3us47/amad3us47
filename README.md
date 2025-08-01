@@ -7,7 +7,7 @@
 - 📫 How to reach me (don't)
 
 
-
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=amad3us47)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
