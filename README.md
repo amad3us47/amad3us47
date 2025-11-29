@@ -2,9 +2,8 @@
 
 - 👋 Hi, I’m @amad3us47 aka Aman 
 - 👀 I’m interested in building stuffs 
-- 🌱 I’m currently studying excel
+- 🌱 Skilling up
 - 💞️ I’m looking to collaborate on fragments(to make good projects)
-- 📫 How to reach me (don't)
 
 
 
