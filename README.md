@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" height="200" width="350" src="https://media1.tenor.com/m/JECyRLDr6p0AAAAd/cry-anime.gif">
+<img align="right" alt="Coding" height="200" width="350" src="https://media1.tenor.com/m/JECyRLDr6p0AAAAd/cry-anime.gif](https://media1.tenor.com/m/RgUcmRwobVUAAAAd/oregairu-hachiman.gif">
 
 - 👋 Hi, I’m @amad3us47 aka Aman 
 - 👀 I’m interested in building stuffs 
