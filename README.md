@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" height="200" width="350" src="https://media1.tenor.com/m/JECyRLDr6p0AAAAd/cry-anime.gif](https://media1.tenor.com/m/RgUcmRwobVUAAAAd/oregairu-hachiman.gif">
+<img align="right" alt="Coding" height="200" width="350" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTZvdTJka3o3dmt5N2tlNXpxdDg5dXQ2ODFiNGFheWhwZzR1MXI0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d9QiBcfzg64Io/giphy.gif">
 
 - 👋 Hi, I’m @amad3us47 aka Aman 
 - 👀 I’m interested in building stuffs 
