@@ -4,6 +4,11 @@
 - 👀 I’m interested in building stuffs 
 - 🌱 Skilling up
 - 💞️ I’m looking to collaborate on fragments(to make good projects)
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## About me
 I am a computer programmer and hacker with a strong interest in understanding systems deeply by building, testing, and improving them. I enjoy working with code, experimenting with ideas, and exploring new technologies to expand my technical skills.
