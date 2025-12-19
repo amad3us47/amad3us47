@@ -17,7 +17,7 @@ I am a computer programmer and hacker with a strong interest in understanding sy
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,ts,nodejs,go,react,nextjs,mongodb,postgres,sqlite,python,javascript,bash" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,ts,nodejs,go,react,nextjs,mongodb,postgres,sqlite,python,javascript,bash" />
   <br>
   <img src="https://skillicons.dev/icons?i=neovim,git,postman,figma,anaconda,linux" />
 </p>
