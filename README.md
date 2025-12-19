@@ -1,9 +1,12 @@
 <img align="right" alt="Coding" height="200" width="350" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTZvdTJka3o3dmt5N2tlNXpxdDg5dXQ2ODFiNGFheWhwZzR1MXI0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d9QiBcfzg64Io/giphy.gif">
 
-- 👋 Hi, I’m @amad3us47 aka Aman 
+- 👋 Hi, I’m @amad3us47 aka Priyanshu
 - 👀 I’m interested in building stuffs 
 - 🌱 Skilling up
 - 💞️ I’m looking to collaborate on fragments(to make good projects)
+
+## About me
+I am a computer programmer and hacker with a strong interest in understanding systems deeply by building, testing, and improving them. I enjoy working with code, experimenting with ideas, and exploring new technologies to expand my technical skills.
 
 ## 🛠️ Languages and Tools
 
