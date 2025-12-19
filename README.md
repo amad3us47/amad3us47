@@ -10,7 +10,7 @@
 <br>
 <br>
 
-## About me
+## 🙋‍♂️ About me
 I am a computer programmer and hacker with a strong interest in understanding systems deeply by building, testing, and improving them. I enjoy working with code, experimenting with ideas, and exploring new technologies to expand my technical skills.
 
 ## 🛠️ Languages and Tools
