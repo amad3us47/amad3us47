@@ -2,8 +2,7 @@
 
 - 👋 Hi, I’m @amad3us47 aka Priyanshu
 - 👀 I’m interested in building stuffs 
-- 🌱 Skilling up
-- 💞️ I’m looking to collaborate on fragments(to make good projects)
+- 🌱 Skilling up in Data Science,Reverse engineering, Hacking and Programming
 <br>
 <br>
 <br>
