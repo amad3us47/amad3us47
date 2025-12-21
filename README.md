@@ -23,7 +23,6 @@ I am a computer programmer and hacker with a strong interest in understanding sy
 </p>
 
 <hr>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amad3us47&show_icons=true&theme=radical)
 
 
 
